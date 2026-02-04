@@ -10,8 +10,11 @@ Toolhead designed to be rigid, and com-optimized while using cheap components.
 
 ### Main features
 Com-Optimized: COM is between the the rail carriage and the belts
+
 Rigidty: Heatsink is supported, and toolhead uses few parts
+
 Adxl Probing: Low cost probing solution that does x,y,z homing and bed leveling
+
 Integrated Extruder: Small filament path for better Pressure Advance
 
 ### Rough cost breakdown:
